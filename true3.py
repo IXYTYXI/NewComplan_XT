@@ -24,12 +24,12 @@ import time
 
 
 # ========= 配置项 ==========
-app_id = "cli_a8ed9e3949fb901c"
-app_secret = "hcWgBB1sPbpS925zYUajRh2iyg0smnEc"
-user_access_token = "u-fOQSwWS4t8wVtbVUkzx1vv415wy44kwpVy00lkC82wzh"  # 替换为实际的用户访问令牌
-APP_TOKEN = "TkXDbv8UyaKIFXswCYUcSbsFnUf"
-TABLE_ID = "tbl9QpjmI3qbVWDC"
-VIEW_ID = "vewuu5jbnf"  # 如果不使用视图，可以留空或删除此项
+app_id = ""
+app_secret = ""
+user_access_token = ""  # 替换为实际的用户访问令牌
+APP_TOKEN = ""
+TABLE_ID = ""
+VIEW_ID = ""  # 如果不使用视图，可以留空或删除此项
 FIELD_NAME = "条码"
 TIME_FIELD = '日期'
 MARK_FIELD = '标记'
