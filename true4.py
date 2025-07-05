@@ -29,10 +29,10 @@ value = sys.argv[1]
 status = sys.argv[2]
 
 # 数据库连接参数（请根据实际情况修改）
-server = '10.10.69.101'     
-database = 'nst' # 例如 'MyDatabase'
-username = 'sa'      # 例如 'sa'
-password = 'nst.xhd2018'      # 例如 'yourStrong(!)Password'
+server = ''     
+database = '' # 例如 'MyDatabase'
+username = ''      # 例如 'sa'
+password = ''      # 例如 'yourStrong(!)Password'
 
 # Excel 文件路径
 input_file = 'D:/anaconda/pyprj/shiyanzhan/test/1.xlsx'
